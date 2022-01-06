@@ -10,23 +10,25 @@ A: Yes,  iOS 13 and above for iPads  and Android version 9 and above for Tablets
 
 We recommend Laptop/PC with a webcam (inbuilt or external) and speakers, compatible with the latest version of Chrome (recommended), Firefox, or Safari browsers for the best experience.
 
-   To ensure your system is supported, please do the device compatibility test at https://iec-online.innerengineering.com/compatibility/  before you register.
+To ensure your system is supported, please do the device compatibility test at 
+https://iec-online.innerengineering.com/compatibility/  before you register.
 
 
-Вопрос: Работают ли iPad / планшеты для завершения внутреннего проектирования онлайн?
+Вопрос: Работают ли iPad / планшеты для завершающей программы "Внутренняя инжененрия онлайн"?
 
 Ответ: Да, iOS 13 и выше для iPad и Android версии 9 и выше для планшетов работают.
 
 Мы рекомендуем ноутбук / ПК с веб-камерой (встроенной или внешней) и динамиками, совместимыми с последней версией браузеров Chrome (рекомендуется), Firefox или Safari для лучшего взаимодействия.
 
-Чтобы убедиться, что ваша система поддерживается, пожалуйста, выполните тест на совместимость устройств по адресу https://iec-online.innerengineering.com/compatibility/ прежде чем вы зарегистрируетесь.
+Чтобы убедиться, что ваша система поддерживается, пожалуйста, выполните тест на совместимость устройств по адресу 
+https://iec-online.innerengineering.com/compatibility/ , прежде чем вы зарегистрируетесь.
 
 ---
 Q: Does Chromebook work for Inner Engineering Completion Online?
 
 A: Yes.
 
-Вопрос: Можно ли использовать Chromebook для завершающей программы <<Внутренняя инженерия>> онлайн?
+Вопрос: Можно ли использовать Chromebook для завершающей программы "Внутренняя инженерия" онлайн?
 
 Ответ: Да.
 
@@ -35,9 +37,11 @@ Q: I have completed the Inner Engineering Online course, but I am still unable t
 
 A: Please ensure you are using the same email ID you used to complete the Inner Engineering Online course. If you still cannot register, please contact Click [Here](https://iecso.innerengineering.com/hc/en-us/articles/360053365871)
 
-Вопрос: Я прошел онлайн-курс "Внутренняя инженерия", но все еще не могу зарегистрироваться
+Вопрос: Я прошел курс "Внутренняя инженерия онлайн", но все еще не могу зарегистрироваться
 
-Ответ: Пожалуйста, убедитесь, что вы используете тот же идентификатор электронной почты, который использовали для прохождения онлайн-курса <<Внутренняя инжененерия>>. Если вы все еще не можете зарегистрироваться, пожалуйста, свяжитесь с нами по ссылке https://iecso.innerengineering.com/hc/en-us/articles/360053365871
+Ответ: Пожалуйста, убедитесь, что вы используете тот же идентификатор электронной почты, который использовали для прохождения курса "Внутренняя инжененерия онлайн". Если вы все еще не можете зарегистрироваться, пожалуйста, свяжитесь с нами по ссылке 
+
+https://iecso.innerengineering.com/hc/en-us/articles/360053365871
 
 ---
 Q: What is the refund policy?
@@ -218,7 +222,9 @@ A: A trained Isha volunteer will be assisting you during the session and ensurin
 
 Вопрос: Кто будет просматривать мое видео?
 
-Ответ: Обученный волонтер Isha будет помогать вам во время сеанса и следить за тем, чтобы вы правильно выполняли свои упражнения. Ваше видео будет храниться в тайне и не будет сохранено или передано кому-либо. Подробнее о нашей политике конфиденциальности читайте здесь.
+Ответ: Обученный волонтер Isha будет помогать вам во время сеанса и следить за тем, чтобы вы правильно выполняли свои упражнения. Ваше видео будет храниться в тайне и не будет сохранено или передано кому-либо. Подробнее о нашей политике конфиденциальности читайте здесь:
+
+https://www.innerengineering.com/ru/policy/privacy . 
 
 
 Вопрос: Кто будет просматривать мое видео?
@@ -233,7 +239,7 @@ A: Change of session day or timing may or may not be possible depending on avail
 
 Вопрос: Могу ли я сменить сеанс на другой? Что делать, если я пропущу сеанс из-за непредвиденных обстоятельств?
 
-Ответ: Изменение дня или времени сеанса может быть или не быть возможным в зависимости от наличия возможности. Лучше всего, если вы продолжите ту же сессию, на которую подписались.
+Ответ: Изменение дня или времени сеанса может быть или не быть возможным. Лучше всего, если вы продолжите ту же сессию, на которую подписались.
 
 ---
 Q: Is it mandatory to have a webcam?
