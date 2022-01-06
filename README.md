@@ -1,6 +1,7 @@
 # ieco-faq
 
-## Registration Faq
+## Registration FAQ
+## FAQ по регистрации
 
 ---
 Q: Do iPad/Tablets work for Inner Engineering Completion Online?
@@ -208,26 +209,51 @@ A: Group registrations are currently not available for this program. To register
 
 
 ## Program Information 
+## Информация о программе
 
 ---
 Q: Who will be viewing my video?
 
 A: A trained Isha volunteer will be assisting you during the session and ensuring you are doing your practices properly. Your video will be kept confidential and will not be saved or shared with anyone. Read more about our privacy policy here.
 
+Вопрос: Кто будет просматривать мое видео?
+
+Ответ: Обученный волонтер Isha будет помогать вам во время сеанса и следить за тем, чтобы вы правильно выполняли свои упражнения. Ваше видео будет храниться в тайне и не будет сохранено или передано кому-либо. Подробнее о нашей политике конфиденциальности читайте здесь.
+
+
+Вопрос: Кто будет просматривать мое видео?
+
+Ответ: Обученный волонтер Isha будет помогать вам во время сеанса и следить за тем, чтобы вы правильно выполняли свои упражнения. Ваше видео будет храниться в тайне и не будет сохранено или передано кому-либо. Подробнее о нашей политике конфиденциальности читайте здесь.
+
 ---
 Q: Can I change my session to another one? What if I miss a session due to unforeseen circumstances?
 
 A: Change of session day or timing may or may not be possible depending on availability. It is best that you continue in the same session you signed up for.
+
+
+Вопрос: Могу ли я сменить сеанс на другой? Что делать, если я пропущу сеанс из-за непредвиденных обстоятельств?
+
+Ответ: Изменение дня или времени сеанса может быть или не быть возможным в зависимости от наличия возможности. Лучше всего, если вы продолжите ту же сессию, на которую подписались.
 
 ---
 Q: Is it mandatory to have a webcam?
 
 A: In order to offer you the same experience as that of a live program, a webcam is required for us to support you and provide feedback during the sessions. It can be either an external webcam or an internal laptop webcam.
 
+
+Вопрос: Обязательно ли наличие веб-камеры?
+
+Ответ: Для того, чтобы предложить вам тот же опыт, что и в прямом эфире, нам необходима веб-камера, чтобы поддерживать вас и предоставлять обратную связь во время сеансов. Это может быть как внешняя веб-камера, так и внутренняя веб-камера ноутбука.
+
 ---
 Q: How do I know the system on my laptop will support these sessions?
 
 A: If the minimum requirements listed here are met, you will be able to attend the session. A check-in process is also required once you register, and will will allow you to access the platform and test your system thoroughly before participating in the session.
+
+
+Вопрос: Как я узнаю, что система на моем ноутбуке будет поддерживать эти сеансы?
+
+Ответ: Если будут выполнены минимальные требования, перечисленные здесь, вы сможете принять участие в сессии. После регистрации также требуется пройти процедуру регистрации, которая позволит вам получить доступ к платформе и тщательно протестировать свою систему перед участием в сеансе.
 
 ---
 Q: Is this as effective as attending the program in-person?
@@ -235,6 +261,13 @@ Q: Is this as effective as attending the program in-person?
 A: This is a wonderful once-in-a-lifetime opportunity for you to receive Shambhavi Mahamudra Kriya from Sadhguru from anywhere in the world. All that is needed is a committed and focused atmosphere. This program format is as effective as an in-person program. How you experience the program depends on your willingness and involvement in the sessions.
 
 video https://iecsupport.innerengineering.com/support/solutions/articles/73000511174-is-this-as-effective-as-attending-the-program-in-person-
+
+
+Вопрос: Так ли это эффективно, как личное участие в программе?
+
+Ответ: Это прекрасная возможность, которая выпадает вам раз в жизни, получить Крию Шамбхави Махамудра от Садхгуру из любой точки мира. Все, что необходимо, - это целеустремленная и сосредоточенная атмосфера. Этот формат программы так же эффективен, как и очная программа. То, как вы воспринимаете программу, зависит от вашей готовности и вовлеченности в занятия.
+
+видео https://iecsupport.innerengineering.com/support/solutions/articles/73000511174-is-this-as-effective-as-attending-the-program-in-person-
 
 ---
 Q: Will Sadhguru be conducting the session?
@@ -249,35 +282,80 @@ Shambhavi will function as a living process within you rather than just a physic
 
 How to receive this properly will be approached in more detail during the program.
 
+
+Вопрос: Будет ли Садхгуру проводить сессию?
+
+Ответ: Каждый аспект программы завершения внутренней инженерии разработан Садхгуру.
+
+Занятия 1 и 2 будут проводиться в прямом эфире инструктором Иша-йоги.
+
+Сессия 3 - это сессия Садхгуру. Чтобы избежать каких-либо перерывов во время процесса передачи Крийи Шамбхави Махамудры, сеанс предварительно записывается. Однако этот процесс не ограничивается простыми инструкциями, но подкрепляется милостью и энергиями Садхгуру, выходящими за рамки физических границ и логического понимания.
+
+Шамбхави будет функционировать как живой процесс внутри вас, а не просто как физическая практика. Если вы сохраняете открытость и сосредоточенность, время и пространство не являются ограничениями для Садхгуру, чтобы передавать Крию Шамбхави в ее полной силе, независимо от того, как далеко вы находитесь.
+
+О том, как правильно это получить, будет рассказано более подробно во время программы.
+
+
 ---
 Q: What kind of space is needed to attend?
 
 A: Ensure you sit by yourself in an indoor space without distractions or interruptions. You will need a space of at least 6x3 ft (2x1 m) to do the practices.
+
+
+Вопрос: Какое пространство необходимо для посещения?
+
+Ответ: Убедитесь, что вы сидите в одиночестве в закрытом помещении, не отвлекаясь и не прерываясь. Для выполнения упражнений вам понадобится пространство размером не менее 6x3 футов (2x1 м).
 
 ---
 Q: Can multiple family members join a session together?
 
 A: Due to technical reasons, multiple family members must log in to their sessions using separate devices.
 
+
+Вопрос: Могут ли несколько членов семьи присоединиться к сеансу вместе?
+
+Ответ: По техническим причинам несколько членов семьи должны входить в свои сеансы с помощью отдельных устройств.
+
 ---
 Q: Can I eat before the session?
 
 A: We will be learning certain yogic practices during each session which require an empty stomach condition. Additional details will be sent to you by email after you register.
+
+
+Вопрос: Могу ли я поесть перед сеансом?
+
+Ответ: Во время каждой сессии мы будем изучать определенные йогические практики, которые требуют состояния пустого желудка. Дополнительная информация будет выслана вам по электронной почте после регистрации.
+
 
 ---
 Q: Do I need a Yoga mat?
 
 A: If you have a Yoga mat, you can use it. Otherwise, if you find difficulty sitting directly on the floor, you can use a bed sheet or a cushion to ensure you are comfortable during the session.
 
+
+Вопрос: Нужен ли мне коврик для йоги?
+
+Ответ: Если у вас есть коврик для йоги, вы можете им воспользоваться. В противном случае, если вам трудно сидеть прямо на полу, вы можете использовать простыню или подушку, чтобы вам было удобно во время сеанса.
+
 ---
 Q: What kind of clothing do I need to wear?
 
 A: Loose-fitting, comfortable clothing is recommended.
 
+
+Вопрос: Какую одежду мне нужно носить?
+
+Ответ: Рекомендуется свободная, удобная одежда.
+
 ---
 Q: Can I skip one of the sessions?
 
 A: Since this is a step-by-step process, if you miss or drop from any session, you will not be able to join the remaining sessions.
+
+
+Вопрос: Могу ли я пропустить одну из сессий?
+
+Ответ: Поскольку это пошаговый процесс, если вы пропустите или откажетесь от какой-либо сессии, вы не сможете присоединиться к оставшимся сессиям.
 
 ---
 Q: What is the structure of the program?
@@ -291,7 +369,20 @@ The sessions must be attended in sequence. If you miss one session it will not b
 An optional support session will be offered following the program and will include a detailed review of the practice and a question-answer session.
 
 
+Вопрос: Какова структура программы?
+
+Ответ: Эта программа предлагается в 3 сеанса:
+- Сеансы 1 и 2 длятся 2,5 часа каждый. Вам доступно несколько вариантов даты и времени на выбор. Эти занятия проводятся инструктором Иша-йоги.
+- Сессия 3 (9 часов с перерывами) предлагает передачу Крийи Шамбхави Махамудра.
+
+Сеансы должны проводиться последовательно. Если вы пропустите одну сессию, то посетить последующую будет невозможно.
+
+После программы будет предложена дополнительная сессия поддержки, которая будет включать подробный обзор практики и сессию вопросов и ответов.
+
+---
+
 ## Participant Support
+## Поддержка участников
 
 ---
 Q: How and when can I visit the Isha Yoga Center?
@@ -306,38 +397,92 @@ https://isha.sadhguru.org/in/en/center/isha-yoga-center-coimbatore/visitor-info
 
 https://isha.sadhguru.org/in/en/center/isha-institute-inner-sciences-usa/overview
 
+
+Вопрос: Как и когда я могу посетить Центр йоги Иша?
+
+Ответ: Освященные помещения Центра йоги Иша, Индия, в настоящее время открыты для публики в течение определенного времени в течение дня. В ближайшее время будут открыты жилые помещения. Пожалуйста, посетите наш веб-сайт для получения обновлений.
+
+**Для Центра Йоги Иша** посетите
+
+https://isha.sadhguru.org/in/en/center/isha-yoga-center-coimbatore/visitor-info
+
+**Для получения дополнительной информации в США** посетите
+
+https://isha.sadhguru.org/in/en/center/isha-institute-inner-sciences-usa/overview
+
 ---
 Q: How do I know the initiation has worked?
 
 A: There is no need to worry about this aspect. You just need to remain open, receptive and fully involved during the session. If you follow the instructions, whatever needs to happen will happen. Following the program, please ensure you maintain the practice daily and make use of the support systems offered in the form of monthly gatherings and review webinars. This will allow you to benefit fully from what has been offered to you.
+
+
+
+Вопрос: Как я узнаю, что инициация сработала?
+
+Ответ: Нет необходимости беспокоиться об этом аспекте. Вам просто нужно оставаться открытым, восприимчивым и полностью вовлеченным во время сеанса. Если вы будете следовать инструкциям, все, что должно произойти, произойдет. Следуя программе, пожалуйста, убедитесь, что вы ежедневно практикуетесь и используете системы поддержки, предлагаемые в виде ежемесячных собраний и обзорных вебинаров. Это позволит вам в полной мере воспользоваться тем, что вам было предложено.
 
 ---
 Q: How is Inner Engineering Completion different from Inner Engineering Online?
 
 A: The Inner Engineering Completion is the next step after Inner Engineering Online and includes the transmission of the Shambhavi Mahamudra Kriya, a powerful and purifying 21-minute energy technique which incorporates the breath, along with rejuvenating and invigorating preparatory asanas, which are not available in the Inner Engineering Online Course. The Shambhavi Mahamudra Kriya is a powerful tool to bring an experiential dimension to the tools offered in Inner Engineering Online.
 
+
+Вопрос: Чем завершение внутреннего проектирования отличается от завершения внутреннего проектирования онлайн?
+
+A: Завершение Внутренней Инженерии является следующим шагом после Внутренней Инженерии Онлайн и включает передачу Крийи Шамбхави Махамудра, мощной и очищающей 21-минутной энергетической техники, которая включает дыхание, наряду с омолаживающими и бодрящими подготовительными асанами, которые недоступны в онлайн-курсе Внутренней инженерии. Крийя Шамбхави Махамудра - это мощный инструмент для придания эмпирического измерения инструментам, предлагаемым в онлайн-приложении "Внутренняя инженерия".
+
 ---
 Q: What if there is a power failure during the session?
 
 A: If there is a momentary disruption during the session, either due to fluctuating power or internet connectivity, please try to log back in to the session as soon as it is resolved. If the disruption is more long lasting, please call and notify us immediately so you don’t miss any program content.
+
+
+Вопрос: Что делать, если во время сеанса произойдет сбой питания?
+
+Ответ: Если во время сеанса происходит кратковременный сбой, либо из-за колебаний напряжения, либо из-за подключения к Интернету, пожалуйста, попробуйте снова войти в сеанс, как только он будет устранен. Если сбой будет более длительным, пожалуйста, позвоните и немедленно сообщите нам, чтобы вы не пропустили ни одного контента программы.
 
 ---
 Q: What if my internet stops working during the session?
 
 A: Before the session, please ensure your internet connection is stable and that you have enough bandwidth and data. In case you get disconnected for a few moments, please try refreshing your screen. If you are unable to, you can either use the live chat support or call the helpline.
 
+
+Вопрос: Что делать, если мой интернет перестанет работать во время сеанса?
+
+Ответ: Перед сеансом, пожалуйста, убедитесь, что ваше интернет-соединение стабильно и у вас достаточно пропускной способности и данных. В случае, если вы отключитесь на несколько мгновений, пожалуйста, попробуйте обновить свой экран. Если вы не можете этого сделать, вы можете либо воспользоваться поддержкой в чате, либо позвонить на горячую линию.
+
 ---
 Q: If I need any support, to whom can I reach out?
 
 A: https://iecsupport.innerengineering.com/support/solutions/articles/73000511167-if-i-need-any-support-to-whom-can-i-reach-out-
+
+
+Вопрос: Если мне нужна какая-либо поддержка, к кому я могу обратиться?
+
+Ответ: 
+
+email: russian.iec@innerengineering.org
+webpage: ishayoga.ru/ieco-support 
 
 ---
 Q: How do I know I’m doing the practice right?
 
 A: The practices will be taught in detail with demonstrations, and you will be sufficiently supported. After the program, various means of support will be offered in the form of practice correction sessions. You can also send your practice-related questions through email, phone and webinars.
 
+
+Вопрос: Как мне узнать, что я правильно выполняю практику?
+
+Ответ: Практикам будут подробно обучать с демонстрациями, и вы получите достаточную поддержку. После завершения программы будут предложены различные средства поддержки в виде практических занятий по коррекции. Вы также можете отправлять свои вопросы, связанные с практикой, по электронной почте, телефону и на вебинары.
+
 ---
 Q: Can I ask questions during the session?
 
 A: There will be various channels of communication with volunteers or instructors facilitating the session through which we can address your questions.
+
+
+Вопрос: Могу ли я задавать вопросы во время сессии?
+
+Ответ: Будут различные каналы связи с волонтерами или инструкторами, способствующими проведению сессии, с помощью которых мы сможем ответить на ваши вопросы.
+
+
 
