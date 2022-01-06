@@ -25,15 +25,27 @@ Q: Does Chromebook work for Inner Engineering Completion Online?
 
 A: Yes.
 
+Вопрос: Можно ли использовать Chromebook для завершающей программы <<Внутренняя инженерия>> онлайн?
+
+Ответ: Да.
+
 ---
 Q: I have completed the Inner Engineering Online course, but I am still unable to register
 
 A: Please ensure you are using the same email ID you used to complete the Inner Engineering Online course. If you still cannot register, please contact Click [Here](https://iecso.innerengineering.com/hc/en-us/articles/360053365871)
 
+Вопрос: Я прошел онлайн-курс "Внутренняя инженерия", но все еще не могу зарегистрироваться
+
+Ответ: Пожалуйста, убедитесь, что вы используете тот же идентификатор электронной почты, который использовали для прохождения онлайн-курса <<Внутренняя инжененерия>>. Если вы все еще не можете зарегистрироваться, пожалуйста, свяжитесь с нами по ссылке https://iecso.innerengineering.com/hc/en-us/articles/360053365871
+
 ---
 Q: What is the refund policy?
 
 A: https://iecsupport.innerengineering.com/support/solutions/articles/73000511129-what-is-the-refund-policy- 
+
+Вопрос: Какова политика возврата средств?
+
+А: https://iecsupport.innerengineering.com/support/solutions/articles/73000511129-what-is-the-refund-policy-
 
 ---
 Q: What are the prerequisites for the program?
@@ -43,6 +55,14 @@ A: Please note that completion of the Inner Engineering Online course (all 7 ses
 You will need a laptop or PC with a webcam and speakers to access the session, and a stable internet connection of 2.5 Mbps and data usage of 500MB/hour. Mobile phones, Chromebooks, iPads and tablets are not supported.
 
 This program is open to anyone over 15 years of age and does not require prior experience of yoga. If you are under the age of 18, please have your parent/guardian contact iecsupport@innerengineering.com to complete the registration process for you. You can read all the program prerequisites here.
+
+Вопрос: Каковы предварительные требования для участия в программе?
+
+Ответ: Пожалуйста, обратите внимание, что обязательным условием является прохождение онлайн-курса "Внутренняя инженерия" (все 7 занятий).
+
+Для доступа к сеансу вам понадобится ноутбук или ПК с веб-камерой и динамиками, а также стабильное подключение к Интернету со скоростью 2,5 Мбит/с и скорость передачи данных 500 Мбит/час. Мобильные телефоны не поддерживаются.
+
+Эта программа открыта для всех старше 15 лет и не требует предварительного опыта занятий йогой. Если вам не исполнилось 18 лет, пожалуйста, свяжитесь с вашим родителем/опекуном iecsupport@innerengineering.com чтобы завершить процесс регистрации за вас. Вы можете ознакомиться со всеми необходимыми условиями программы здесь.
 
 ---
 Q: What are the recommended computer requirements for the inner engineering completion online?
@@ -56,14 +76,31 @@ Data usage/hour: 500MB
 To ensure your system is supported, please visit the device compatibility test page before registering.
 
 
-To ensure your system is supported, please do the device compatibility test
+To ensure your system is supported, please do the device compatibility test at https://iec-online.innerengineering.com/compatibility/  before you register.
 
-at https://iec-online.innerengineering.com/compatibility/  before you register.
+
+Вопрос: Каковы рекомендуемые требования к компьютеру для завершения <<Внутренней инженеерии>> онлайн?
+
+Ответ: Ноутбук / ПК, iPad / планшет с веб-камерой (встроенной или внешней) и динамиками, совместимыми с последней версией браузеров Chrome (рекомендуется), Firefox или Safari. Мобильные телефоны не поддерживаются.
+Операционная система: Windows 8 или более поздняя версия (или) Mac OS X EI-10.11 или более поздняя версия, некоторые версии Linux, iOS 13 и выше для iPad и Android версии 9 и выше для планшетов
+Браузер: Последняя версия браузеров Chrome (рекомендуется), Firefox или Safari.
+Стабильное подключение к Интернету
+Пропускная способность: 2,5 Мбит/с
+Использование данных в час: 500 МБ
+Чтобы убедиться, что ваша система поддерживается, пожалуйста, посетите страницу проверки совместимости устройств перед регистрацией.
+
+
+Чтобы убедиться, что ваша система поддерживается, пожалуйста, выполните тест на совместимость устройства в https://iec-online.innerengineering.com/compatibility/ прежде чем вы зарегистрируетесь.
 
 ---
 Q: I have not yet completed Inner Engineering Online but will be able to do so by the time the program starts. Can I still register?
 
 A: You will be able to register for the completion program once **you have completed** all 7 sessions of the online course.
+
+Вопрос: Я еще не закончил внутреннюю инженерию онлайн, но смогу сделать это к моменту запуска программы. Могу ли я все еще зарегистрироваться?
+
+Ответ: Вы сможете зарегистрироваться для участия в программе завершения, как только ** вы пройдете ** все 7 сеансов онлайн-курса.
+
 
 ---
 Q: I have already attended an in-person Inner Engineering program. Can I participate in this program?
@@ -74,6 +111,14 @@ To register for the online course , please visit https://www.innerengineering.co
 
 Once you complete the online course, you can register for the completion program at https://www.innerengineering.com/completion-online
 
+Вопрос: Я уже посещал очную программу внутреннего инжиниринга. Могу ли я участвовать в этой программе?
+
+Ответ: Рекомендуется пройти онлайн-курс Inner Engineering в качестве повышения квалификации, прежде чем посещать онлайн-курс Inner Engineering Completion.
+
+Чтобы зарегистрироваться на онлайн-курс, пожалуйста, посетите https://www.innerengineering.com/enroll/online
+
+Как только вы пройдете онлайн-курс, вы можете зарегистрироваться для участия в программе завершения обучения по адресу https://www.innerengineering.com/completion-online
+
 ---
 Q: I am not very comfortable with technology. Can a family member assist me during the sessions?
 
@@ -81,25 +126,51 @@ A: The sessions are open only to registered participants. A family member could 
 
 After your registration, you will go through a check-in process which also ensures you are able to log in to the platform. The platform is simple and can be used by anyone. A dedicated helpline will be available in case you need further support.
 
+Вопрос: Я не очень хорошо разбираюсь в технологиях. Может ли член семьи помогать мне во время сеансов?
+
+Ответ: Сессии открыты только для зарегистрированных участников. Член семьи мог бы помочь вам заранее, но, пожалуйста, убедитесь, что у вас есть необходимая конфиденциальность после начала сеанса.
+
+После регистрации вы пройдете процедуру регистрации, которая также гарантирует, что вы сможете войти на платформу. Платформа проста и может быть использована любым пользователем. На случай, если вам потребуется дополнительная поддержка, будет доступна специальная горячая линия.
+
 ---
 Q: Can I gift the program to a friend?
 
 A: Since Inner Engineering Online is a prerequisite, your friend must log in using their own Inner Engineering Online account details to register for the Completion program. Hence, the gift option is currently not available.
+
+Вопрос: Могу ли я подарить программу другу?
+
+Ответ: Поскольку Inner Engineering Online является обязательным условием, ваш друг должен войти в систему, используя свои собственные данные учетной записи Inner Engineering Online, чтобы зарегистрироваться для участия в программе завершения. Следовательно, опция подарка в настоящее время недоступна.
 
 ---
 Q: Is my registration transferable to another person?
 
 A: No, your registration cannot be transferred to another person.
 
+Вопрос: Может ли моя регистрация быть передана другому лицу?
+
+Ответ: Нет, ваша регистрация не может быть передана другому лицу.
+
+
 ---
 Q: I have a medical condition. Can I still participate?
 
 A: You should consult with your doctor or other appropriate healthcare provider prior to and regarding your participation in the program. Inner Engineering Completion Online includes learning and practicing basic yoga asanas (physical postures) and gentle breathing exercises. You may participate in the program if you have a medical condition, but when you register you will be required to confirm that you have consulted any appropriate medical providers and agree to take full responsibility for any risks involved with your participation. If you have an acute or aggravated mental health condition, then you must consult with a professional mental healthcare provider before registering for or participating in Inner Engineering Completion Online.
 
+Вопрос: У меня есть заболевание. Могу ли я все еще участвовать?
+
+Ответ: Вам следует проконсультироваться со своим врачом или другим соответствующим медицинским работником до и по поводу вашего участия в программе. Завершение внутренней инженерии онлайн включает в себя изучение и практику базовых асан йоги (физических поз) и мягких дыхательных упражнений. Вы можете участвовать в программе, если у вас есть заболевание, но при регистрации вам необходимо будет подтвердить, что вы консультировались с любыми соответствующими медицинскими работниками и соглашаетесь взять на себя полную ответственность за любые риски, связанные с вашим участием. Если у вас острое или обострившееся психическое расстройство, вам необходимо проконсультироваться с профессиональным психиатром, прежде чем регистрироваться или участвовать в онлайн-программе Inner Engineering Completion.
+
+
 ---
 Q: Is this the only opportunity to go through the Shambhavi Mahamudra initiation? Is there any possibility of attending an in-person program?
 
 A: We are planning to resume residential programs at the Isha Institute of Inner-sciences and Isha Yoga Center shortly. These will be facilitated by Isha Yoga Instructors. However, Inner Engineering Completion Online is a wonderful possibility for you to receive Shambhavi Mahamudra Kriya. The online format does not compromise the integrity of the process in any way. Just ensure you set the right ambience around you when you attend the course.
+
+
+Вопрос: Это единственная возможность пройти посвящение Шамбхави Махамудры? Есть ли какая-либо возможность принять участие в очной программе?
+
+Ответ: В ближайшее время мы планируем возобновить программы обучения в Институте внутренних наук Иша и Центре йоги Иша. Этому будут способствовать инструкторы Иша-йоги. Тем не менее, завершение внутренней инженерии онлайн - это прекрасная возможность для вас получить Крию Шамбхави Махамудра. Онлайн-формат никоим образом не ставит под угрозу целостность процесса. Просто убедитесь, что вы создаете правильную атмосферу вокруг себя, когда посещаете курс.
+
 
 ---
 Q: Will this program be available at any other date if I am unable to attend this program on March 28?
@@ -107,15 +178,31 @@ Q: Will this program be available at any other date if I am unable to attend thi
 
 A: The Inner Engineering Completion Online will be offered on a regular basis. All upcoming dates will be listed on our website, so please keep checking the site for updates or subscribe to our newsletter by clicking here
 
+
+Вопрос: Будет ли эта программа доступна в любую другую дату, если я не смогу принять участие в этой программе 28 марта?
+
+
+Ответ: Онлайн-завершение внутреннего проектирования будет предлагаться на регулярной основе. Все предстоящие даты будут указаны на нашем веб-сайте, поэтому, пожалуйста, продолжайте проверять сайт на наличие обновлений или подпишитесь на нашу рассылку новостей, нажав здесь.
+
 ---
 Q: Is the completion program available in the same languages as the Inner Engineering Online course?
 
 A: Currently, the Inner Engineering Completion Online program is only available in English.
 
+
+Вопрос: Доступна ли программа завершения на тех же языках, что и онлайн-курс Inner Engineering?
+
+Ответ: В настоящее время онлайн-программа завершения внутренней инженерии доступна только на английском языке.
+
 ---
 Q: My friend/family member has also done the Inner Engineering Online course. Can I register for them as well?
 
 A: Group registrations are currently not available for this program. To register, you must log in using the same email ID used for the Inner Engineering Online course.
+
+
+Вопрос: Мой друг / член семьи также прошел онлайн-курс "Внутренняя инженерия". Могу ли я также зарегистрироваться для них?
+
+Ответ: Групповая регистрация в настоящее время недоступна для этой программы. Чтобы зарегистрироваться, вы должны войти в систему, используя тот же идентификатор электронной почты, который использовался для онлайн-курса Inner Engineering.
 
 ---
 
