@@ -550,9 +550,7 @@ https://iecsupport.innerengineering.com/support/solutions/articles/73000511167-i
 
 Вопрос: Если мне нужна какая-либо поддержка, к кому я могу обратиться?
 
-Ответ:
-
-email: russian.iec@innerengineering.org webpage: ishayoga.ru/ieco-support
+Ответ: Пожалуйста, задайте вопрос, используюя онлайн форму на сайте ishayoga.ru/ieco-support 
 
 --- Q: How do I know I’m doing the practice right?
 
