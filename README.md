@@ -51,7 +51,7 @@ To ensure your system is supported, please do the device compatibility test at
 https://iec-online.innerengineering.com/compatibility/ before you register.
 
 
-Вопрос: Подходят ли iPad / планшеты для завершающей онлайн-программы «Внутренняя инжененрия»?
+Вопрос: Подходят ли iPad / планшеты / Chromebook / мобильный телефон для завершающей онлайн-программы «Внутренняя инженерия»?
 
 Ответ: Пожалуйста, обратитесь к вопросу «Каковы требования к устройсву для завершающей онлайн-программы «Внутренней инженеерия»?»
 
@@ -60,9 +60,7 @@ Q: Does Chromebook work for Inner Engineering Completion Online?
 
 A: Yes.
 
-Вопрос: Можно ли использовать Chromebook для завершающей онлайн-программы «Внутренняя инженерия»?
-
-Ответ: Пожалуйста, обратитесь к вопросу «Каковы требования к устройсву для завершающей онлайн-программы «Внутренней инженеерия»?»
+Duplicated above
 
 ---
 Q: I have completed the Inner Engineering Online course, but I am still unable to register
@@ -156,47 +154,18 @@ https://www.innerengineering.com/completion-online
 https://www.innerengineering.com/ru/completion-online
 
 ---
-Q: I am not very comfortable with technology.  Can a family member assist me during the sessions?
-
-A: The sessions are open only to registered participants.  A family member could assist you prior, but please ensure you
-have the needed privacy once the session starts.
-
-After your registration, you will go through a check-in process which also ensures you are able to log in to the
-platform.  The platform is simple and can be used by anyone.  A dedicated helpline will be available in case you need
-further support.
-
-
-Вопрос: Я не очень хорошо разбираюсь в технологиях.  Может ли член семьи помогать мне во время сеансов?
-
-Ответ: Сессии открыты только для зарегистрированных участников.  Член семьи может помочь вам до начала сеанса, но, пожалуйста,
-убедитесь, что у вас есть необходимое личное пространство после начала сеанса.
-
-После регистрации вы пройдете check-in процедуру, которая также гарантирует, что вы сможете войти на платформу.
-Платформа проста и может быть использована любым пользователем.  На случай, если вам потребуется дополнительная
-поддержка, будет доступна специальная горячая линия.
-
----
-Q: Can I gift the program to a friend?
+Q: Can I gift the program to a friend / or transfer it to another person?
 
 A: Since Inner Engineering Online is a prerequisite, your friend must log in using their own Inner Engineering Online
 account details to register for the Completion program.  Hence, the gift option is currently not available.
 
 
-Вопрос: Могу ли я подарить программу другу?
+Вопрос: Могу ли я подарить / передать регистрацию в программе другому человеку?
 
-Ответ: Поскольку онлайн-программа «Внутренняя инженерия» является обязательным условием, ваш друг должен войти в систему, используя
-свои собственные данные учетной записи онлайн-программа «Внутренняя инженерия», чтобы зарегистрироваться для участия в программе
-завершения. Таким образом, опция подарка в настоящее время недоступна.
-
----
-Q: Is my registration transferable to another person?
-
-A: No, your registration cannot be transferred to another person.
-
-
-Вопрос: Может ли моя регистрация быть передана другому лицу?
-
-Ответ: Нет, ваша регистрация не может быть передана другому лицу.
+Ответ: Нет, ваша регистрация не может быть передана другому лицу. Поскольку онлайн-программа «Внутренняя инженерия» является обязательным условием, этот человек должен войти в систему, используя
+свои собственные данные учетной записи онлайн-программа «Внутренняя инженерия», 
+чтобы зарегистрироваться для участия в программе
+завершения. Таким образом, опция подарка / передачи в настоящее время недоступна.
 
 ---
 Q: I have a medical condition. Can I still participate?
@@ -238,6 +207,26 @@ process in any way.  Just ensure you set the right ambience around you when you 
 возможность для вас получить Шамбхави Махамудра крийю.  Онлайн-формат никоим образом не ставит под угрозу целостность
 процесса.  Просто убедитесь, что вы создаете правильную атмосферу вокруг себя, когда посещаете курс.
 
+---
+Q: Is this as effective as attending the program in-person?
+
+A: This is a wonderful once-in-a-lifetime opportunity for you to receive Shambhavi Mahamudra Kriya from Sadhguru from
+anywhere in the world.  All that is needed is a committed and focused atmosphere.  This program format is as effective
+as an in-person program.  How you experience the program depends on your willingness and involvement in the sessions.
+
+video
+https://iecsupport.innerengineering.com/support/solutions/articles/73000511174-is-this-as-effective-as-attending-the-program-in-person-
+
+
+Вопрос: Так ли это эффективно, как посещение очной программы?
+
+Ответ: Это прекрасная возможность, которая выпадает вам раз в жизни, получить Шамбхави Махамудра крийю от Садхгуру из
+любой точки мира.  Все, что необходимо, - это целеустремленная и сосредоточенная атмосфера.  Этот формат программы так
+же эффективен, как и очная программа.  То, как вы воспринимаете программу, зависит от вашей готовности и вовлеченности в
+занятия.
+
+видео
+https://drive.google.com/file/d/1REzXp8ZNaWu0ZIost1NJHeLZiM0q9xAL/view?usp=sharing
 
 ---
 Q: Will this program be available at any other date if I am unable to attend this program on March 28?
@@ -247,7 +236,7 @@ A: The Inner Engineering Completion Online will be offered on a regular basis.  
 website, so please keep checking the site for updates or subscribe to our newsletter by clicking here
 
 
-Вопрос: Будет ли эта программа доступна в любую другую дату, если я не смогу принять участие в этой программе в мой день?
+Вопрос: Будет ли эта программа доступна в другую дату, если я не смогу принять участие в мой день?
 
 Ответ: Завершение онлайн-программы «Внутренняя инженерия» будет предлагаться на регулярной основе.  Все предстоящие даты будут
 указаны на нашем веб-сайте, поэтому, пожалуйста, продолжайте проверять сайт на наличие обновлений или подпишитесь на
@@ -276,6 +265,25 @@ ID used for the Inner Engineering Online course.
 
 Ответ: Групповая регистрация в настоящее время недоступна для этой программы. Чтобы зарегистрироваться, вы должны войти
 в систему, используя тот же email, который использовался для онлайн-программы «Внутренняя инженерия».
+
+---
+Q: How is Inner Engineering Completion different from Inner Engineering Online?
+
+A: The Inner Engineering Completion is the next step after Inner Engineering Online and includes the transmission of the
+Shambhavi Mahamudra Kriya, a powerful and purifying 21-minute energy technique which incorporates the breath, along with
+rejuvenating and invigorating preparatory asanas, which are not available in the Inner Engineering Online Course.  The
+Shambhavi Mahamudra Kriya is a powerful tool to bring an experiential dimension to the tools offered in Inner
+Engineering Online.
+
+
+Вопрос: Чем завершениающая онлайн-программа «Внутренняя инженерия» отличается от онлайн-программы «Внутренняя инженерия»?
+
+Ответ: Завершающая онлайн-программа «Внутренняя инженерия» является следующим шагом после 
+онлайн-программы «Внутренняя инженерия» и включает передачу
+Шамбхави Махамудра крийи, мощной и очищающей 21-минутной энергетической техники, которая задействует дыхание, наряду с
+омолаживающими и бодрящими подготовительными асанами, которые недоступны в онлайн-курсе Внутренней инженерии.
+Шамбхави Махамудра крийя - это мощный инструмент для придания эмпирического измерения инструментам, предлагаемым в
+онлайн-программе «Внутренняя инженерия».
 
 ---
 
@@ -312,6 +320,18 @@ in the same session you signed up for.
 на которую подписались.
 
 ---
+Q: Can I skip one of the sessions?
+
+A: Since this is a step-by-step process, if you miss or drop from any session, you will not be able to join the
+remaining sessions.
+
+
+Вопрос: Могу ли я пропустить одну из сессий?
+
+Ответ: Поскольку это пошаговый процесс, если вы пропустите или откажетесь от какой-либо сессии, вы не сможете
+присоединиться к оставшимся сессиям.
+
+---
 Q: Is it mandatory to have a webcam?
 
 A: In order to offer you the same experience as that of a live program, a webcam is required for us to support you and
@@ -325,6 +345,36 @@ provide feedback during the sessions.  It can be either an external webcam or an
 ноутбука.
 
 ---
+Q: I am not very comfortable with technology.  Can a family member assist me during the sessions?
+
+A: The sessions are open only to registered participants.  A family member could assist you prior, but please ensure you
+have the needed privacy once the session starts.
+
+After your registration, you will go through a check-in process which also ensures you are able to log in to the
+platform.  The platform is simple and can be used by anyone.  A dedicated helpline will be available in case you need
+further support.
+
+
+Вопрос: Я не очень хорошо разбираюсь в технологиях.  Может ли член семьи помогать мне во время сеансов?
+
+Ответ: Сессии открыты только для зарегистрированных участников.  Член семьи может помочь вам до начала сеанса, но, пожалуйста,
+убедитесь, что у вас есть необходимое личное пространство после начала сеанса.
+
+После регистрации вы пройдете check-in процедуру, которая также гарантирует, что вы сможете войти на платформу.
+Платформа проста и может быть использована любым пользователем.  На случай, если вам потребуется дополнительная
+поддержка, будет доступна специальная горячая линия.
+
+---
+Q: Can multiple family members join a session together?
+
+A: Due to technical reasons, multiple family members must log in to their sessions using separate devices.
+
+
+Вопрос: Могут ли несколько членов семьи присоединиться к сессии вместе?
+
+Ответ: По техническим причинам несколько членов семьи должны входить в свои сеансы с помощью отдельных устройств.
+
+---
 Q: How do I know the system on my laptop will support these sessions?
 
 A: If the minimum requirements listed here are met, you will be able to attend the session.  A check-in process is also
@@ -333,27 +383,6 @@ participating in the session.
 
 
 Этот вопрос --- дупликат предыдущего вопроса «Каковы требования к устройсву для завершающей онлайн-программы «Внутренней инженеерия»?»
-
----
-Q: Is this as effective as attending the program in-person?
-
-A: This is a wonderful once-in-a-lifetime opportunity for you to receive Shambhavi Mahamudra Kriya from Sadhguru from
-anywhere in the world.  All that is needed is a committed and focused atmosphere.  This program format is as effective
-as an in-person program.  How you experience the program depends on your willingness and involvement in the sessions.
-
-video
-https://iecsupport.innerengineering.com/support/solutions/articles/73000511174-is-this-as-effective-as-attending-the-program-in-person-
-
-
-Вопрос: Так ли это эффективно, как посещение очной программы?
-
-Ответ: Это прекрасная возможность, которая выпадает вам раз в жизни, получить Шамбхави Махамудра крийю от Садхгуру из
-любой точки мира.  Все, что необходимо, - это целеустремленная и сосредоточенная атмосфера.  Этот формат программы так
-же эффективен, как и очная программа.  То, как вы воспринимаете программу, зависит от вашей готовности и вовлеченности в
-занятия.
-
-видео
-https://drive.google.com/file/d/1REzXp8ZNaWu0ZIost1NJHeLZiM0q9xAL/view?usp=sharing
 
 ---
 Q: Will Sadhguru be conducting the session?
@@ -390,6 +419,38 @@ How to receive this properly will be approached in more detail during the progra
 О том, как правильно получить ее, будет более подробно рассказано во время программы.
 
 ---
+Q: What is the structure of the program?
+
+A: This program is offered in 3 sessions: 
+
+- Sessions 1 and 2 are 2.5 hours each.  Multiple date and time options are
+available for you to choose from.  These sessions are facilitated by an Isha Yoga instructor.  
+
+- Session 3 (9 hours with
+breaks) offers the transmission of Shambhavi Mahamudra Kriya.
+
+The sessions must be attended in sequence.  If you miss one session it will not be possible to attend the subsequent
+one.
+
+An optional support session will be offered following the program and will include a detailed review of the practice and
+a question-answer session.
+
+
+Вопрос: Какова структура программы?
+
+Ответ: Эта программа cостоит из трех сессий: 
+
+- Сессии 1 и 2 длятся по 2.5 часа каждый. Вам доступно несколько вариантов
+даты и времени на выбор. Эти занятия проводятся инструктором Иша-йоги.  
+
+- Сессия 3 (9 часов с перерывами) включает в себя передачу Шамбхави Махамудра крийи.
+
+Сессии должны проводиться последовательно.  Если вы пропустите одну сессию, то посетить последующую будет невозможно.
+
+После программы будет предложена дополнительная сессия поддержки, которая будет включать подробный обзор практики и
+сессию вопросов и ответов.
+
+---
 Q: What kind of space is needed to attend?
 
 A: Ensure you sit by yourself in an indoor space without distractions or interruptions.  You will need a space of at
@@ -400,16 +461,6 @@ least 6x3 ft (2x1 m) to do the practices.
 
 Ответ: Убедитесь, что вы сидите в одиночестве в закрытом помещении, не отвлекаясь и не прерываясь.  Для выполнения
 упражнений вам понадобится пространство размером не менее 2x1 м.
-
----
-Q: Can multiple family members join a session together?
-
-A: Due to technical reasons, multiple family members must log in to their sessions using separate devices.
-
-
-Вопрос: Могут ли несколько членов семьи присоединиться к сессии вместе?
-
-Ответ: По техническим причинам несколько членов семьи должны входить в свои сеансы с помощью отдельных устройств.
 
 ---
 Q: Can I eat before the session?
@@ -444,50 +495,6 @@ A: Loose-fitting, comfortable clothing is recommended.
 Вопрос: Какую одежду мне нужно носить?
 
 Ответ: Рекомендуется свободная, удобная одежда.
-
----
-Q: Can I skip one of the sessions?
-
-A: Since this is a step-by-step process, if you miss or drop from any session, you will not be able to join the
-remaining sessions.
-
-
-Вопрос: Могу ли я пропустить одну из сессий?
-
-Ответ: Поскольку это пошаговый процесс, если вы пропустите или откажетесь от какой-либо сессии, вы не сможете
-присоединиться к оставшимся сессиям.
-
----
-Q: What is the structure of the program?
-
-A: This program is offered in 3 sessions: 
-
-- Sessions 1 and 2 are 2.5 hours each.  Multiple date and time options are
-available for you to choose from.  These sessions are facilitated by an Isha Yoga instructor.  
-
-- Session 3 (9 hours with
-breaks) offers the transmission of Shambhavi Mahamudra Kriya.
-
-The sessions must be attended in sequence.  If you miss one session it will not be possible to attend the subsequent
-one.
-
-An optional support session will be offered following the program and will include a detailed review of the practice and
-a question-answer session.
-
-
-Вопрос: Какова структура программы?
-
-Ответ: Эта программа cостоит из трех сессий: 
-
-- Сессии 1 и 2 длятся по 2.5 часа каждый. Вам доступно несколько вариантов
-даты и времени на выбор. Эти занятия проводятся инструктором Иша-йоги.  
-
-- Сессия 3 (9 часов с перерывами) включает в себя передачу Шамбхави Махамудра крийи.
-
-Сессии должны проводиться последовательно.  Если вы пропустите одну сессию, то посетить последующую будет невозможно.
-
-После программы будет предложена дополнительная сессия поддержки, которая будет включать подробный обзор практики и
-сессию вопросов и ответов.
 
 ---
 
@@ -539,25 +546,6 @@ webinars.  This will allow you to benefit fully from what has been offered to yo
 вовлеченным во время сеанса.  Если вы будете следовать инструкциям, –– все, что должно произойти, произойдет.  Следуя
 программе, пожалуйста, убедитесь, что вы ежедневно практикуетесь и используете системы поддержки, предлагаемые в виде
 ежемесячных собраний и обзорных вебинаров.  Это позволит вам в полной мере воспользоваться тем, что вам было предложено.
-
----
-Q: How is Inner Engineering Completion different from Inner Engineering Online?
-
-A: The Inner Engineering Completion is the next step after Inner Engineering Online and includes the transmission of the
-Shambhavi Mahamudra Kriya, a powerful and purifying 21-minute energy technique which incorporates the breath, along with
-rejuvenating and invigorating preparatory asanas, which are not available in the Inner Engineering Online Course.  The
-Shambhavi Mahamudra Kriya is a powerful tool to bring an experiential dimension to the tools offered in Inner
-Engineering Online.
-
-
-Вопрос: Чем завершениающая онлайн-программа «Внутренняя инженерия» отличается от онлайн-программы «Внутренняя инженерия»?
-
-Ответ: Завершающая онлайн-программа «Внутренняя инженерия» является следующим шагом после 
-онлайн-программы «Внутренняя инженерия» и включает передачу
-Шамбхави Махамудра крийи, мощной и очищающей 21-минутной энергетической техники, которая задействует дыхание, наряду с
-омолаживающими и бодрящими подготовительными асанами, которые недоступны в онлайн-курсе Внутренней инженерии.
-Шамбхави Махамудра крийя - это мощный инструмент для придания эмпирического измерения инструментам, предлагаемым в
-онлайн-программе «Внутренняя инженерия».
 
 ---
 Q: What if there is a power failure during the session?
