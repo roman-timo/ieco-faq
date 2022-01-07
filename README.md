@@ -589,7 +589,8 @@ https://iecsupport.innerengineering.com/support/solutions/articles/73000511167-i
 
 Вопрос: Если мне нужна какая-либо поддержка, к кому я могу обратиться?
 
-Ответ: Пожалуйста, задайте вопрос, используюя онлайн форму на сайте ishayoga.ru/ieco-support 
+Ответ: Пожалуйста, задайте вопрос, используя онлайн форму на сайте:
+https://ishayoga.ru/ieco-support
 
 ---
 Q: How do I know I’m doing the practice right?
@@ -612,7 +613,7 @@ A: There will be various channels of communication with volunteers or instructor
 we can address your questions.
 
 
-Вопрос: Могу ли я задавать вопросы во время сессии?
+Вопрос: Смогу ли я задавать вопросы во время сессии?
 
 Ответ: Будут различные каналы связи с волонтерами или инструкторами, способствующими проведению сессии, с помощью
 которых мы сможем ответить на ваши вопросы.
