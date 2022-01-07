@@ -18,6 +18,7 @@ test page before registering.
 To ensure your system is supported, please do the device compatibility test at
 https://iec-online.innerengineering.com/compatibility/ before you register.
 
+---
 
 Вопрос: Каковы требования к устройсву для завершающей онлайн-программы «Внутренней инженеерия»?
 
@@ -52,6 +53,7 @@ We recommend Laptop/PC with a webcam (inbuilt or external) and speakers, compati
 To ensure your system is supported, please do the device compatibility test at
 https://iec-online.innerengineering.com/compatibility/ before you register.
 
+---
 
 Вопрос: Подходят ли iPad / планшеты / Chromebook / мобильный телефон для завершающей онлайн-программы «Внутренняя инженерия»?
 
@@ -72,6 +74,7 @@ Q: I have completed the Inner Engineering Online course, but I am still unable t
 A: Please ensure you are using the same email ID you used to complete the Inner Engineering Online course.  If you still
 cannot register, please contact Click [Here](https://iecso.innerengineering.com/hc/en-us/articles/360053365871)
 
+---
 Вопрос: Я прошел онлайн-программу «Внутренняя инженерия», но все еще не могу зарегистрироваться.
 
 Ответ: Пожалуйста, убедитесь, что вы используете тот же email, который использовали для
@@ -88,6 +91,7 @@ A: Please visit this link to learn about the refund policy:
 
 https://iecsupport.innerengineering.com/support/solutions/articles/73000511129-what-is-the-refund-policy-
 
+---
 Вопрос: Какова политика возврата средств?
 
 А: Пожалуйста, перейдите по этой ссылке, чтобы узнать о политике возврата средств:
@@ -110,6 +114,7 @@ for you.  You can read all the program prerequisites here.
 https://www.innerengineering.com/completion-with-sadhguru-online#pgm-prereq
 
 
+---
 Вопрос: Каковы предварительные требования для участия в программе?
 
 Ответ: Пожалуйста, обратите внимание, что обязательным условием является прохождение онлайн-программы «Внутренняя инженерия»
@@ -131,6 +136,7 @@ I still register?
 A: You will be able to register for the completion program once **you have completed** all 7 sessions of the online
 course.
 
+---
 Вопрос: Я еще не закончил онлайн-программу «Внутренняя инженерия», но смогу сделать это к моменту запуска программы.  Могу ли я
 зарегистрироваться?
 
@@ -151,6 +157,7 @@ Once you complete the online course, you can register for the completion program
 https://www.innerengineering.com/completion-online
 
 
+---
 Вопрос: Я уже посещал очную программу «Внутренняя инженерия».  Могу ли я участвовать в этой программе?
 
 Ответ: Рекомендуется пройти онлайн-программу «Внутренняя инженерия» для повышения квалификации, прежде чем посещать
@@ -169,6 +176,7 @@ A: Since Inner Engineering Online is a prerequisite, your friend must log in usi
 account details to register for the Completion program.  Hence, the gift option is currently not available.
 
 
+---
 Вопрос: Могу ли я подарить / передать регистрацию в программе другому человеку?
 
 Ответ: Нет, ваша регистрация не может быть передана другому лицу. 
@@ -191,6 +199,7 @@ mental health condition, then you must consult with a professional mental health
 participating in Inner Engineering Completion Online.
 
 
+---
 Вопрос: У меня есть заболевание. Могу ли я участвовать?
 
 Ответ: Вам следует проконсультироваться со своим врачом или другим соответствующим медицинским работником по поводу
@@ -214,6 +223,7 @@ possibility for you to receive Shambhavi Mahamudra Kriya.  The online format doe
 process in any way.  Just ensure you set the right ambience around you when you attend the course.
 
 
+---
 Вопрос: Это единственная возможность пройти посвящение Шамбхави Махамудру? Есть ли какая-либо возможность принять
 участие в очной программе?
 
@@ -234,6 +244,7 @@ video
 https://iecsupport.innerengineering.com/support/solutions/articles/73000511174-is-this-as-effective-as-attending-the-program-in-person-
 
 
+---
 Вопрос: Так ли это эффективно, как посещение очной программы?
 
 Ответ: Это прекрасная возможность, которая выпадает вам раз в жизни, получить Шамбхави Махамудра крийю от Садхгуру из
@@ -253,6 +264,7 @@ A: The Inner Engineering Completion Online will be offered on a regular basis.  
 website, so please keep checking the site for updates or subscribe to our newsletter by clicking here
 
 
+---
 Вопрос: Будет ли эта программа доступна в другую дату, если я не смогу принять участие в мой день?
 
 Ответ: Завершение онлайн-программы «Внутренняя инженерия» будет предлагаться на регулярной основе.  Все предстоящие даты будут
@@ -268,6 +280,7 @@ Q: Is the completion program available in the same languages as the Inner Engine
 A: Currently, the Inner Engineering Completion Online program is only available in English.
 
 
+---
 Вопрос: Доступна ли программа завершения на тех же языках, что и онлайн-программа «Внутренняя инженерия»?
 
 Ответ: В настоящее время завершающая онлайн-программа «Внутренняя инженерия» доступна только на английском, русском и хинди.
@@ -280,6 +293,7 @@ A: Group registrations are currently not available for this program.  To registe
 ID used for the Inner Engineering Online course.
 
 
+---
 Вопрос: Мой друг / член семьи также прошел онлайн-программа «Внутренняя инженерия».  Могу ли я также зарегистрировать их?
 
 Ответ: Групповая регистрация в настоящее время недоступна для этой программы. Чтобы зарегистрироваться, вы должны войти
@@ -296,6 +310,7 @@ Shambhavi Mahamudra Kriya is a powerful tool to bring an experiential dimension 
 Engineering Online.
 
 
+---
 Вопрос: Чем завершениающая онлайн-программа «Внутренняя инженерия» отличается от онлайн-программы «Внутренняя инженерия»?
 
 Ответ: Завершающая онлайн-программа «Внутренняя инженерия» является следующим шагом после 
@@ -320,6 +335,7 @@ A: In order to offer you the same experience as that of a live program, a webcam
 provide feedback during the sessions.  It can be either an external webcam or an internal laptop webcam.
 
 
+---
 Вопрос: Обязательно ли наличие веб-камеры?
 
 Ответ: Для того, чтобы предложить вам тот же опыт, что и на очной программе, нам необходима веб-камера, чтобы поддерживать
@@ -335,6 +351,7 @@ Your video will be kept confidential and will not be saved or shared with anyone
 here.
 
 
+---
 Вопрос: Кто будет просматривать мое видео?
 
 Ответ: Обученный волонтер «Иша» будет помогать вам во время сеанса и следить за тем, чтобы вы правильно выполняли свои
@@ -351,6 +368,7 @@ A: Change of session day or timing may or may not be possible depending on avail
 in the same session you signed up for.
 
 
+---
 Вопрос: Могу ли я сменить сеанс?  Что делать, если я пропущу сеанс из-за непредвиденных обстоятельств?
 
 Ответ: Изменение дня или времени сеанса может быть или не быть возможным. Лучше всего, если вы продолжите ту же сессию,
@@ -364,6 +382,7 @@ A: Since this is a step-by-step process, if you miss or drop from any session, y
 remaining sessions.
 
 
+---
 Вопрос: Могу ли я пропустить одну из сессий?
 
 Ответ: Поскольку это пошаговый процесс, если вы пропустите или откажетесь от какой-либо сессии, вы не сможете
@@ -381,6 +400,7 @@ platform.  The platform is simple and can be used by anyone.  A dedicated helpli
 further support.
 
 
+---
 Вопрос: Я не очень хорошо разбираюсь в технологиях.  Может ли член семьи помогать мне во время сеансов?
 
 Ответ: Сессии открыты только для зарегистрированных участников.  Член семьи может помочь вам до начала сеанса, но, пожалуйста,
@@ -397,6 +417,7 @@ Q: Can multiple family members join a session together?
 A: Due to technical reasons, multiple family members must log in to their sessions using separate devices.
 
 
+---
 Вопрос: Могут ли несколько членов семьи присоединиться к сессии вместе?
 
 Ответ: По техническим причинам несколько членов семьи должны входить в свои сеансы с помощью отдельных устройств.
@@ -431,6 +452,7 @@ matter how far you are.
 How to receive this properly will be approached in more detail during the program.
 
 
+---
 Вопрос: Будет ли Садхгуру проводить сессию лично?
 
 Ответ: Каждый аспект программы завершения внутренней инженерии разработан Садхгуру.
@@ -466,6 +488,7 @@ An optional support session will be offered following the program and will inclu
 a question-answer session.
 
 
+---
 Вопрос: Какова структура программы?
 
 Ответ: Эта программа состоит из трех сессий: 
@@ -488,6 +511,7 @@ A: Ensure you sit by yourself in an indoor space without distractions or interru
 least 6x3 ft (2x1 m) to do the practices.
 
 
+---
 Вопрос: Какое пространство необходимо для посещения?
 
 Ответ: Убедитесь, что вы сидите в одиночестве в закрытом помещении, не отвлекаясь и не прерываясь.  Для выполнения
@@ -501,6 +525,7 @@ A: We will be learning certain yogic practices during each session which require
 details will be sent to you by email after you register.
 
 
+---
 Вопрос: Могу ли я есть перед сеcсией?
 
 Ответ: Во время каждой сессии мы будем изучать определенные йогические практики, которые требуют состояния пустого
@@ -514,6 +539,7 @@ A: If you have a Yoga mat, you can use it.  Otherwise, if you find difficulty si
 a bed sheet or a cushion to ensure you are comfortable during the session.
 
 
+---
 Вопрос: Нужен ли мне коврик для йоги?
 
 Ответ: Если у вас есть коврик для йоги, вы можете им воспользоваться.  В противном случае, если вам трудно сидеть прямо
@@ -526,6 +552,7 @@ Q: What kind of clothing do I need to wear?
 A: Loose-fitting, comfortable clothing is recommended.
 
 
+---
 Вопрос: Какую одежду мне нужно носить?
 
 Ответ: Рекомендуется свободная, удобная одежда.
@@ -552,6 +579,7 @@ https://isha.sadhguru.org/in/en/center/isha-yoga-center-coimbatore/visitor-info
 https://isha.sadhguru.org/in/en/center/isha-institute-inner-sciences-usa/overview
 
 
+---
 Вопрос: Как и когда я могу посетить Центр йоги Иша?
 
 Ответ: Освященные помещения Центра йоги Иша, Индия, в настоящее время открыты для публики в течение определенного
@@ -577,6 +605,7 @@ webinars.  This will allow you to benefit fully from what has been offered to yo
 
 
 
+---
 Вопрос: Как я узнаю, что инициация сработала?
 
 Ответ: Нет необходимости беспокоиться об этом аспекте.  Вам просто нужно оставаться открытым, восприимчивым и полностью
@@ -593,6 +622,7 @@ please try to log back in to the session as soon as it is resolved.  If the disr
 and notify us immediately so you don’t miss any program content.
 
 
+---
 Вопрос: Что делать, если во время сеанса произойдет сбой в питании / аккумуляторе устройсва?
 
 Ответ: Если во время сеанса происходит кратковременный сбой, либо из-за колебаний напряжения, либо из-за подключения к
@@ -608,6 +638,7 @@ case you get disconnected for a few moments, please try refreshing your screen. 
 use the live chat support or call the helpline.
 
 
+---
 Вопрос: Что делать, если мой интернет перестанет работать во время сеанса?
 
 Ответ: Перед сеансом, пожалуйста, убедитесь, что ваше интернет-соединение стабильно и у вас достаточно пропускной
@@ -623,6 +654,7 @@ A:
 https://iecsupport.innerengineering.com/support/solutions/articles/73000511167-if-i-need-any-support-to-whom-can-i-reach-out-
 
 
+---
 Вопрос: Если мне нужна какая-либо поддержка, к кому я могу обратиться?
 
 Ответ: Пожалуйста, задайте вопрос, используя онлайн форму на сайте:
@@ -637,6 +669,7 @@ program, various means of support will be offered in the form of practice correc
 practice-related questions through email, phone and webinars.
 
 
+---
 Вопрос: Как мне узнать, что я правильно выполняю практику?
 
 Ответ: Практикам будут подробно обучать с демонстрациями, и вы получите достаточную поддержку.  После завершения
@@ -651,6 +684,7 @@ A: There will be various channels of communication with volunteers or instructor
 we can address your questions.
 
 
+---
 Вопрос: Смогу ли я задавать вопросы во время сессии?
 
 Ответ: Будут различные каналы связи с волонтерами или инструкторами, способствующими проведению сессии, с помощью
